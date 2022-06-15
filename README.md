@@ -1,6 +1,6 @@
 <h2>Hi there, I'm <a href="https://resume-pdf-six.vercel.app/" target="_blank">Nasyr</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="27"/></h2>
-<h3>Junior Front-end developer from Kyrgyzstan :kyrgyzstan:</h3>
+<h3>Junior Front-end developer from Kyrgyzstan <img width="30" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/325/flag-kyrgyzstan_1f1f0-1f1ec.png"/>
 
 <div>
 
