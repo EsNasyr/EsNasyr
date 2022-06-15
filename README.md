@@ -25,7 +25,7 @@
 </details>
 
 <details>
-  <summary>:envelope: Commits per day and hour:</summary>
+  <summary>:envelope: Commits per day hour:</summary>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EsNasyr&theme=default)
   
