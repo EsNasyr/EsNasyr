@@ -1,8 +1,8 @@
-<h1 align="center">Hi there, I'm <a href="https://resume-pdf-six.vercel.app/" target="_blank">Nasyr</a> 
+<h1>Hi there, I'm <a href="https://resume-pdf-six.vercel.app/" target="_blank">Nasyr</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Junior Front-end developer from Kyrgyzstan 🇷🇺</h3>
+<h3>Junior Front-end developer from Kyrgyzstan 🇷🇺</h3>
 
-<div align="center">
+<div>
 
 ![](https://komarev.com/ghpvc/?username=EsNasyr)
 
