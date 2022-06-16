@@ -6,12 +6,14 @@
 
 <h3>Junior Front-end developer from Kyrgyzstan</h3>  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I+love+coding)](https://git.io/typing-svg)
+:heart:[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I+love+coding)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I+keep+learning+JavaScript)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I+love+reading+books)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I+prefer+to+work+at+home)](https://git.io/typing-svg)
 
 <h3>Connect with me:</h3>
+
+
 
 <a href="https://www.linkedin.com/in/nasyr-esenbaev-aa5574225/">
 <img alt="Esenbaev | LinkedIn" width="22px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-256.png" />
