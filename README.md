@@ -11,7 +11,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I+love+reading+books)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I+prefer+to+work+at+home)](https://git.io/typing-svg)
 
-###Connect with me:
+<h3>Connect with me:</h3>
 
 
 <details>
