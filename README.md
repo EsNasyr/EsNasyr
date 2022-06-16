@@ -16,7 +16,9 @@
 <a href="https://www.linkedin.com/in/nasyr-esenbaev-aa5574225/">
 <img alt="Esenbaev | LinkedIn" width="22px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-256.png" />
 </a>
-
+<a href="https://www.instagram.com/dev.nasa/">
+<img alt="Esenbaev | Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" />
+</a>
 
 <details>
   <summary>:fire: Streak stats:</summary>
