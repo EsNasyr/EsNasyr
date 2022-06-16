@@ -13,8 +13,6 @@
 
 ###Connect with me:
 
-[<img align="left" alt="Esenbaev | LinkedIn" width="22px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-256.png" />][linkedin] 
-[<img align="left" alt="Esenbaev | Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" />][instagram]
 
 <details>
   <summary>:fire: Streak stats:</summary>
