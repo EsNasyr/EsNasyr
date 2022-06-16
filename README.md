@@ -13,6 +13,10 @@
 
 <h3>Connect with me:</h3>
 
+<a href="https://www.linkedin.com/in/nasyr-esenbaev-aa5574225/">
+<img alt="Esenbaev | LinkedIn" width="22px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-256.png" />
+</a>
+
 
 <details>
   <summary>:fire: Streak stats:</summary>
