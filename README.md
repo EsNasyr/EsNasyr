@@ -12,6 +12,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I+prefer+to+work+at+home)](https://git.io/typing-svg)
 
 <h3>Connect with me:</h3>
+<img alt='Instagram' src='https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-256.png' width='30'/>
+<img alt='Linkedin' src='https://cdn-icons-png.flaticon.com/512/2111/2111463.png' width='30'/>
+<img alt='Telegramm' src='https://img.icons8.com/color/344/telegram-app--v1.png' width='30'/>
 
 
 
