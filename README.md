@@ -16,7 +16,7 @@
 
 
 <h3>Languages and Tools:<h3/>
-
+<img src="https://img.icons8.com/color/344/javascript--v1.png" width='35'/>
 
 
 <br/>
