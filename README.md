@@ -16,7 +16,15 @@
 
 
 <h3>Languages and Tools:<h3/>
-<img src="https://img.icons8.com/color/344/javascript--v1.png" width='35'/>
+<img alt='JavaScript' src="https://img.icons8.com/color/344/javascript--v1.png" width='35'/>
+<img alt='React' src="https://img.icons8.com/officel/344/react.png" width='35'/>
+<img alt='HTML' src="" width='35'/>
+<img alt='CSS' src="" width='35'/>
+<img alt='BOOTSTRAPP' src="" width='35'/>
+<img alt='SASS' src="" width='35'/>
+<img alt='GIT' src="" width='35'/>
+<img alt='BEM' src="" width='35'/>
+<img alt='JSON' src="" width='35'/>
 
 
 <br/>
