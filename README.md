@@ -18,13 +18,15 @@
 <h3>Languages and Tools:<h3/>
 <img alt='JavaScript' src="https://img.icons8.com/color/344/javascript--v1.png" width='35'/>
 <img alt='React' src="https://img.icons8.com/officel/344/react.png" width='35'/>
-<img alt='HTML' src="" width='35'/>
-<img alt='CSS' src="" width='35'/>
-<img alt='BOOTSTRAPP' src="" width='35'/>
-<img alt='SASS' src="" width='35'/>
-<img alt='GIT' src="" width='35'/>
-<img alt='BEM' src="" width='35'/>
-<img alt='JSON' src="" width='35'/>
+<img alt='HTML' src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width='35'/>
+<img alt='CSS' src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width='35'/>
+<img alt='SASS' src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" width='35'/>
+<img alt='GIT' src="https://img.icons8.com/color/344/git.png" width='35'/>
+<img alt='JSON' src="https://img.icons8.com/color/344/json--v1.png" width='35'/>
+<img alt='BOOTSTRAPP' src="https://img.icons8.com/color/344/bootstrap.png" width='35'/>
+<img alt='Material UI' src="https://img.icons8.com/color/344/material-ui.png" width='35'/>
+<img alt='WebStorm' src="https://img.icons8.com/color/344/webstorm.png" width='35'/>
+<img alt='VisualStudioCode' src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width='35'/>
 
 
 <br/>
