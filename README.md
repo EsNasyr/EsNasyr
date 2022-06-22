@@ -1,15 +1,11 @@
 <h2>Hi there, I'm <a href="https://resume-pdf-six.vercel.app/" target="_blank">Nasyr</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="27"/></h2>
-<div display="flex">
-<div width="50%">
 <img aligh='right' src="https://camo.githubusercontent.com/2309797487e5e969659a3b545c96151807b04120a9cc2985f632ec94ba00c9f3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" alt="GIF" wigth="100" height="200" aligh="right"/>
-</div>
+
 
 ![](https://komarev.com/ghpvc/?username=EsNasyr)
 
-<div width="50%">
 <h3>Front-end developer from Kyrgyzstan</h3>  
-<div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I+love+coding)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I+keep+learning+JavaScript)](https://git.io/typing-svg)
@@ -17,9 +13,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I+prefer+working+at+home)](https://git.io/typing-svg)
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
-</div>
-</div>
-</div>
+
 
 
 <h3>Connect with me:</h3>
