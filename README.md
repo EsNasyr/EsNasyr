@@ -5,12 +5,16 @@
 ![](https://komarev.com/ghpvc/?username=EsNasyr)
 
 <h3>Front-end developer from Kyrgyzstan</h3>  
+<div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I+love+coding)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I+keep+learning+JavaScript)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I+love+reading+books)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I+prefer+working+at+home)](https://git.io/typing-svg)
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</div>
+
 
 <h3>Connect with me:</h3>
 <a href='https://www.instagram.com/dev.nasa/'>
