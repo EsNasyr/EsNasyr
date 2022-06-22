@@ -6,6 +6,7 @@
 ![](https://komarev.com/ghpvc/?username=EsNasyr)
 
 <h3>Front-end developer from Kyrgyzstan</h3>  
+<hr/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I+love+coding)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I+keep+learning+JavaScript)](https://git.io/typing-svg)
