@@ -3,23 +3,16 @@
 
 <div align="center">
 
-<div align="left">
 <img src="https://camo.githubusercontent.com/2309797487e5e969659a3b545c96151807b04120a9cc2985f632ec94ba00c9f3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" alt="GIF" wigth="100" height="200" aligh="right"/>
 
 ![](https://komarev.com/ghpvc/?username=EsNasyr)
-</div>
 
-<div align="right">
 <h3>Front-end developer from Kyrgyzstan</h3>  
-<p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I+love+coding)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I+keep+learning+JavaScript)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I+love+reading+books)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I+prefer+working+at+home)](https://git.io/typing-svg)
-</p>
-
-</div>
 
 </div>
 
