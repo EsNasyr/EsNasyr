@@ -1,4 +1,4 @@
-<h2>Hi there, I'm <a href="https://resume-pdf-six.vercel.app/" target="_blank">Nasyr</a> 
+<h2>Hi there, I'm Nasyr 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="27"/></h2>
 
 
