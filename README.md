@@ -64,12 +64,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EsNasyr)](https://github.com/anuraghazra/github-readme-stats)
 </details>
 
-<details>
-  <summary>:envelope: Commits per day hour:</summary>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EsNasyr&theme=default)
-  
-</details>
 
 
 
