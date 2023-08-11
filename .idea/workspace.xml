@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bcc403e9-5273-4f34-ad66-755cca131754" name="Default Changelist" comment="" />
+    <list default="true" id="bcc403e9-5273-4f34-ad66-755cca131754" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,7 +64,7 @@
       <workItem from="1687534152459" duration="22000" />
       <workItem from="1691523124485" duration="379000" />
       <workItem from="1691595836784" duration="6000" />
-      <workItem from="1691778493287" duration="282000" />
+      <workItem from="1691778493287" duration="633000" />
     </task>
     <servers />
   </component>
@@ -69,13 +72,9 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="498" height="398" key="SwitcherDM" timestamp="1655387225462">
+    <state width="498" height="398" key="SwitcherDM" timestamp="1691779050800">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="498" height="398" key="SwitcherDM/0.0.1366.728@0.0.1366.728" timestamp="1655387225462" />
-    <state x="339" y="162" key="run.anything.popup" timestamp="1655327207044">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1655327207044" />
+    <state width="498" height="398" key="SwitcherDM/0.0.1366.728@0.0.1366.728" timestamp="1691779050800" />
   </component>
 </project>
