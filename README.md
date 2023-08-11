@@ -52,8 +52,7 @@
 <details>
   <summary>:fire: Streak stats:</summary>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EsNasyr)](https://git.io/streak-stats)
-  
+[![GitHub Streak](https://streak-stats.demolab.com?user=EsNasyr&theme=transparent&hide_border=true&border_radius=0&card_width=1000)](https://git.io/streak-stats)  
 </details>
 
 <details>
